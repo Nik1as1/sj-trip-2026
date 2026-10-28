@@ -16,7 +16,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:3f0417226bfc81d2b128fe5a25e91e39@trip-planner
-DTSTAMP:20261028T020137Z
+DTSTAMP:20261028T021615Z
 DTSTART;TZID=Asia/Shanghai:20261015T104500
 DTEND;TZID=Asia/Shanghai:20261015T114500
 SUMMARY:到达北京大兴机场（CA958）
@@ -27,7 +27,7 @@ DESCRIPTION:从法兰克福飞来，落地时间是北京时间。\n预订
 END:VEVENT
 BEGIN:VEVENT
 UID:3f0417226bfc81e58339f06f22619d23@trip-planner
-DTSTAMP:20261028T020137Z
+DTSTAMP:20261028T021615Z
 DTSTART;TZID=Asia/Shanghai:20261016T140000
 DTEND;TZID=Asia/Shanghai:20261016T150000
 SUMMARY:入住亚朵X酒店
@@ -42,7 +42,7 @@ DESCRIPTION:14:00 后可以入住。靖雯 17 日 05:00 落地后再过来
 END:VEVENT
 BEGIN:VEVENT
 UID:3f3417226bfc814db4c3d626897ab241@trip-planner
-DTSTAMP:20261028T020137Z
+DTSTAMP:20261028T021615Z
 DTSTART;TZID=Asia/Shanghai:20261017T130000
 DTEND;TZID=Asia/Shanghai:20261017T150000
 SUMMARY:东来顺（和靖雯一起）
@@ -57,7 +57,7 @@ DESCRIPTION:高德：https://uri.amap.com/marker?position=116.398263\,39.89
 END:VEVENT
 BEGIN:VEVENT
 UID:3f0417226bfc81c0b5cffcd2c6ea3592@trip-planner
-DTSTAMP:20261028T020137Z
+DTSTAMP:20261028T021615Z
 DTSTART;TZID=Asia/Shanghai:20261018T102400
 DTEND;TZID=Asia/Shanghai:20261018T143400
 SUMMARY:G881 北京南 → 青岛（和靖雯一起）
@@ -69,7 +69,7 @@ DESCRIPTION:北京南 10:24 开，14:34 到青岛站。建议 09:54 前到
 END:VEVENT
 BEGIN:VEVENT
 UID:3f1417226bfc80199e13f1021d59fdaa@trip-planner
-DTSTAMP:20261028T020137Z
+DTSTAMP:20261028T021615Z
 DTSTART;TZID=Asia/Shanghai:20261018T140000
 DTEND;TZID=Asia/Shanghai:20261018T150000
 SUMMARY:入住青岛酒店（和靖雯一起）
@@ -82,7 +82,7 @@ DESCRIPTION:14:00 后可以入住。\n高德：https://uri.amap.com/marker?
 END:VEVENT
 BEGIN:VEVENT
 UID:3f0417226bfc81dc811af05b78b38723@trip-planner
-DTSTAMP:20261028T020137Z
+DTSTAMP:20261028T021615Z
 DTSTART;TZID=Asia/Shanghai:20261018T131500
 DTEND;TZID=Asia/Shanghai:20261018T140000
 SUMMARY:亚朵X酒店退房（和靖雯一起）
@@ -96,7 +96,7 @@ DESCRIPTION:14:00 前退房。\n预订：北京朝阳三元桥亚朵X酒店
 END:VEVENT
 BEGIN:VEVENT
 UID:3f7417226bfc819881acfc9733d619ba@trip-planner
-DTSTAMP:20261028T020137Z
+DTSTAMP:20261028T021615Z
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261024
 SUMMARY:留在青岛（暂定）
@@ -106,7 +106,7 @@ DESCRIPTION:烟台不去了，21–23 日暂定留在青岛。也可能去
 END:VEVENT
 BEGIN:VEVENT
 UID:3f1417226bfc809ebfadd7236cd7778c@trip-planner
-DTSTAMP:20261028T020137Z
+DTSTAMP:20261028T021615Z
 DTSTART;TZID=Asia/Shanghai:20261021T111500
 DTEND;TZID=Asia/Shanghai:20261021T120000
 SUMMARY:青岛酒店退房（和靖雯一起）
@@ -119,7 +119,7 @@ DESCRIPTION:12:00 前退房。\n高德：https://uri.amap.com/marker?positi
 END:VEVENT
 BEGIN:VEVENT
 UID:3f1417226bfc81abb12ce7c6983b0a1c@trip-planner
-DTSTAMP:20261028T020137Z
+DTSTAMP:20261028T021615Z
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
 SUMMARY:🎂（和靖雯一起）
@@ -127,7 +127,7 @@ LOCATION:青岛
 END:VEVENT
 BEGIN:VEVENT
 UID:3f0417226bfc81ef8505d49df3c40401@trip-planner
-DTSTAMP:20261028T020137Z
+DTSTAMP:20261028T021615Z
 DTSTART;TZID=Asia/Shanghai:20261025T083000
 DTEND;TZID=Asia/Shanghai:20261025T122000
 SUMMARY:MU5685 青岛 → 昆明
@@ -141,7 +141,7 @@ DESCRIPTION:东航 MU5685，青岛胶东机场 08:30 起飞，12:20 到昆
 END:VEVENT
 BEGIN:VEVENT
 UID:402417226bfc8133bf0cc9cb53553eaa@trip-planner
-DTSTAMP:20261028T020137Z
+DTSTAMP:20261028T021615Z
 DTSTART;TZID=Asia/Shanghai:20261028T133000
 DTEND;TZID=Asia/Shanghai:20261028T140500
 SUMMARY:长水机场 → 昆明站（打车）（和靖雯一起）
@@ -152,7 +152,7 @@ DESCRIPTION:拿完行李先在机场吃午饭，13:30 左右打车去昆明
 END:VEVENT
 BEGIN:VEVENT
 UID:3f9417226bfc81c7b284f6ec07b13106@trip-planner
-DTSTAMP:20261028T020137Z
+DTSTAMP:20261028T021615Z
 DTSTART;TZID=Asia/Shanghai:20261028T152800
 DTEND;TZID=Asia/Shanghai:20261028T173000
 SUMMARY:昆明站 → 大理（动车）（和靖雯一起）
@@ -165,7 +165,7 @@ DESCRIPTION:D3802，昆明站 15:28 开，17:30 到大理站，二等座 14
 END:VEVENT
 BEGIN:VEVENT
 UID:3f9417226bfc81d3baefd6c89b126cdb@trip-planner
-DTSTAMP:20261028T020137Z
+DTSTAMP:20261028T021615Z
 DTSTART;TZID=Asia/Shanghai:20261028T180000
 DTEND;TZID=Asia/Shanghai:20261028T190000
 SUMMARY:入住花筑奢·云谷归墅（大理古城）（和靖雯一起
@@ -174,34 +174,21 @@ LOCATION:花筑奢·云谷归墅设计师民宿(大理古城店)，大理
  古城人民路东段东门完小隔壁（Trip.com 写的是大理镇东
  门村委会3组41号）
 DESCRIPTION:住 4 晚（10/28–11/1）。古城东门、洱海门旁，步
- 行 6 分钟到人民路。14:00 后入住，免费停车，可以寄存
- 行李。建议怎么玩（只是建议）：10/28 到了就在东门附
- 近吃晚饭，早点休息；大理海拔约 2000 米，头一天少喝
- 酒、多喝水；10/29 睡到自然醒，下午再逛古城、床单厂
- 、鲜花饼手作；10/30 包车去海东（双廊 → 小普陀 → 理
- 想邦 → 文笔村），5 座车 9 小时约 240–260 元，低于 200 
- 元的多半有套路；10/31 海西：打车到龙龛码头（约 20 分
- 钟，大理高峰时打车难叫，龙龛一带也有本地三轮车）
- 。海西生态廊道不让外面租的电动车进，只能扫码租廊
- 道里的官方车（单人电单车约 15–20 元/小时），认准车
- 身蓝色贴纸的那家，覆盖海西全段，橙色贴纸的只到 52 
- 号租车点；解锁后先在小程序里看蓝色运营区域，前 3 
- 分钟免费，不对马上还。沿路还车点很多，不用骑回去
- 。路线：龙龛码头 → 才村 → 下波淜小S湾 → 磻溪S弯 
- → 廊桥 → 海舌公园，约 18 公里，连拍照 3–4 小时；不
- 想骑的话，廊道里有观光电瓶车，10 元/人/站，招手即停
- 。海舌公园门口步行 20 分钟或坐三轮车（约 10 元）到喜
- 洲古镇，喜洲打车回民宿约 30 分钟。廊道的价格和规则
- 来自网上攻略，以现场为准。10/26 的预报里这几天大理
- 都是晴天，哪天下雨就和古城那天对调。\n高德：https://u
- ri.amap.com/marker?position=100.174102\,25.696361&name=%E8%8A%B1%E7%AD%91%
- E5%A5%A2%C2%B7%E4%BA%91%E8%B0%B7%E5%BD%92%E5%A2%85%E8%AE%BE%E8%AE%A1%E5%B8
- %88%E6%B0%91%E5%AE%BF%28%E5%A4%A7%E7%90%86%E5%8F%A4%E5%9F%8E%E5%BA%97%29&s
- rc=trip-planner&callnative=1
+ 行 6 分钟到人民路。14:00 后入住，12:00 前退房，免费停
+ 车，可以寄存行李。大理海拔约 2000 米，头一天少喝酒
+ 、多喝水。每天去哪写在每日行程里（Song 10/28 定的）：
+ 10/28 晚上人民路；10/29 喜洲、海西廊道骑行、柴米多、
+ 三圣岛看日落；10/30 海东包车（双廊、小普陀、文笔村
+ ）；10/31 寂照庵、三塔、床单厂艺术区。10/28 的预报里
+ 这几天大理都是晴天。\n高德：https://uri.amap.com/marker?posit
+ ion=100.174102\,25.696361&name=%E8%8A%B1%E7%AD%91%E5%A5%A2%C2%B7%E4%BA%91%
+ E8%B0%B7%E5%BD%92%E5%A2%85%E8%AE%BE%E8%AE%A1%E5%B8%88%E6%B0%91%E5%AE%BF%28
+ %E5%A4%A7%E7%90%86%E5%8F%A4%E5%9F%8E%E5%BA%97%29&src=trip-planner&callnati
+ ve=1
 END:VEVENT
 BEGIN:VEVENT
 UID:3f9417226bfc818face6c13b20c17c03@trip-planner
-DTSTAMP:20261028T020137Z
+DTSTAMP:20261028T021615Z
 DTSTART;TZID=Asia/Shanghai:20261101T110200
 DTEND;TZID=Asia/Shanghai:20261101T124600
 SUMMARY:C353 大理 → 保山（动车）（和靖雯一起）
@@ -214,7 +201,7 @@ DESCRIPTION:C353，大理站 11:02 开，12:46 到保山站，二等座 67
 END:VEVENT
 BEGIN:VEVENT
 UID:3f9417226bfc8165a990fccb5a734a52@trip-planner
-DTSTAMP:20261028T020137Z
+DTSTAMP:20261028T021615Z
 DTSTART;TZID=Asia/Shanghai:20261101T091500
 DTEND;TZID=Asia/Shanghai:20261101T100000
 SUMMARY:花筑奢·云谷归墅退房（和靖雯一起）
@@ -229,7 +216,7 @@ DESCRIPTION:10:00 左右退房，打车去大理站（约 27 分钟），
 END:VEVENT
 BEGIN:VEVENT
 UID:3f9417226bfc817da016c6f37ec2a8ec@trip-planner
-DTSTAMP:20261028T020137Z
+DTSTAMP:20261028T021615Z
 DTSTART;TZID=Asia/Shanghai:20261101T154500
 DTEND;TZID=Asia/Shanghai:20261101T164500
 SUMMARY:入住腾冲官房大酒店（和靖雯一起）
@@ -247,7 +234,7 @@ DESCRIPTION:住 3 晚（11/1–11/4）。在腾冲城里，酒店自带天
 END:VEVENT
 BEGIN:VEVENT
 UID:3f9417226bfc819bab7de03b38e7698b@trip-planner
-DTSTAMP:20261028T020137Z
+DTSTAMP:20261028T021615Z
 DTSTART;TZID=Asia/Shanghai:20261104T111500
 DTEND;TZID=Asia/Shanghai:20261104T120000
 SUMMARY:腾冲官房大酒店退房（和靖雯一起）
@@ -260,7 +247,7 @@ DESCRIPTION:12:00 前退房，行李寄存在前台，在酒店或附近慢
 END:VEVENT
 BEGIN:VEVENT
 UID:3f9417226bfc81b4a490fdef2c8fe581@trip-planner
-DTSTAMP:20261028T020137Z
+DTSTAMP:20261028T021615Z
 DTSTART;TZID=Asia/Shanghai:20261104T164300
 DTEND;TZID=Asia/Shanghai:20261104T203800
 SUMMARY:C358 保山 → 昆明（动车）（和靖雯一起）
@@ -276,7 +263,7 @@ DESCRIPTION:C358，保山站 16:43 开，20:38 到昆明站，二等座 181
 END:VEVENT
 BEGIN:VEVENT
 UID:3f0417226bfc8188a3c3f4d2f76a723d@trip-planner
-DTSTAMP:20261028T020137Z
+DTSTAMP:20261028T021615Z
 DTSTART;TZID=Asia/Shanghai:20261120T025000
 DTEND;TZID=Asia/Shanghai:20261120T035000
 SUMMARY:北京首都机场 T3 起飞回德国（CA961）
@@ -287,7 +274,7 @@ DESCRIPTION:凌晨起飞，建议 11 月 19 日 23:50 前到 T3。\n预订
 END:VEVENT
 BEGIN:VEVENT
 UID:3f9417226bfc81b0b16bea536183d9e6@trip-planner
-DTSTAMP:20261028T020137Z
+DTSTAMP:20261028T021615Z
 DTSTART;TZID=Asia/Shanghai:20261101T133000
 DTEND;TZID=Asia/Shanghai:20261101T154000
 SUMMARY:保山 → 腾冲（顺风车）（和靖雯一起）
@@ -300,7 +287,7 @@ DESCRIPTION:保山站出站先在站前广场吃午饭（有面馆、饺子
 END:VEVENT
 BEGIN:VEVENT
 UID:404417226bfc81da9a45f43cfac6e612@trip-planner
-DTSTAMP:20261028T020137Z
+DTSTAMP:20261028T021615Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261108
 SUMMARY:住昆明（酒店还没定）（和靖雯一起）
@@ -313,7 +300,7 @@ DESCRIPTION:11/4 从腾冲回来（顺风车到保山，C358 20:38 到昆
 END:VEVENT
 BEGIN:VEVENT
 UID:404417226bfc816f86dcd21de860b940@trip-planner
-DTSTAMP:20261028T020137Z
+DTSTAMP:20261028T021615Z
 DTSTART;TZID=Asia/Shanghai:20261104T133000
 DTEND;TZID=Asia/Shanghai:20261104T154000
 SUMMARY:腾冲 → 保山站（顺风车）（和靖雯一起）
@@ -325,8 +312,179 @@ DESCRIPTION:吃完午饭从官房大酒店门口上车，到保山站约 2
  晚饭。
 END:VEVENT
 BEGIN:VEVENT
+UID:407417226bfc8105a2f9cf1aae8366f1@trip-planner
+DTSTAMP:20261028T021615Z
+DTSTART;TZID=Asia/Shanghai:20261028T183000
+DTEND;TZID=Asia/Shanghai:20261028T200000
+SUMMARY:人民路走走，桃红小馆吃晚饭（和靖雯一起）
+LOCATION:桃红小馆·特色大理菜·小菜小酒小馆，大理镇人
+ 民路下段420号
+DESCRIPTION:放下行李走 6 分钟到人民路，桃红小馆在人民路
+ 下段，小红书说酸辣鱼必点。吃完在洱海门、人民路附
+ 近走走就回，第一天早点睡。\n高德：https://uri.amap.com/mar
+ ker?position=100.167325\,25.695143&name=%E6%A1%83%E7%BA%A2%E5%B0%8F%E9%A6%
+ 86%C2%B7%E7%89%B9%E8%89%B2%E5%A4%A7%E7%90%86%E8%8F%9C%C2%B7%E5%B0%8F%E8%8F
+ %9C%E5%B0%8F%E9%85%92%E5%B0%8F%E9%A6%86&src=trip-planner&callnative=1
+END:VEVENT
+BEGIN:VEVENT
+UID:407417226bfc81d08654c97567072a95@trip-planner
+DTSTAMP:20261028T021615Z
+DTSTART;TZID=Asia/Shanghai:20261029T111000
+DTEND;TZID=Asia/Shanghai:20261029T124000
+SUMMARY:喜洲古镇（逛逛，简单吃午饭）（和靖雯一起）
+LOCATION:喜洲古镇，云南省大理白族自治州大理市喜洲镇清
+ 真路130号
+DESCRIPTION:10:30 从民宿打车过去，约 37 分钟（大理高峰时
+ 难叫车，可以早点叫）。午饭吃点喜洲粑粑这类小吃就
+ 行，晚饭 16:00 就在才村吃。今天的顺序是从北往南：喜
+ 洲 → 廊道骑到才村 → 柴米多 → 三圣岛看日落，不用
+ 走回头路。\n高德：https://uri.amap.com/marker?position=100.131582\
+ ,25.852950&name=%E5%96%9C%E6%B4%B2%E5%8F%A4%E9%95%87&src=trip-planner&call
+ native=1
+END:VEVENT
+BEGIN:VEVENT
+UID:407417226bfc8165b0b4eb0ad8b44bab@trip-planner
+DTSTAMP:20261028T021615Z
+DTSTART;TZID=Asia/Shanghai:20261029T130000
+DTEND;TZID=Asia/Shanghai:20261029T160000
+SUMMARY:海西廊道骑行（海舌公园 → 才村）（和靖雯一起
+ ）
+LOCATION:廊桥，湾桥镇向阳溪
+DESCRIPTION:喜洲坐三轮车到海舌公园门口（约 10 元），在
+ 廊道入口扫码租官方电单车。往南骑：廊桥 → 洱海最美
+ 一公里（古生村，多停一会儿）→ 磻溪S弯（人多，拍一
+ 张就走）→ 下波淜枯树 → 下鸡邑芦苇（洱海之门）→ 
+ 才村，约 15–18 公里，骑车一个半小时左右，连拍照约 3
+  小时。外面租的电动车进不了廊道，只能租廊道里的官
+ 方车（单人电单车约 15–20 元/小时）：认准车身蓝色贴
+ 纸的那家，覆盖海西全段，橙色贴纸的只到 52 号租车点
+ ；解锁后先在小程序里看蓝色运营区域，前 3 分钟免费
+ ，不对马上还。沿路还车点很多，累了就先还车。不想
+ 骑的话，廊道里有观光电瓶车，10 元/人/站，招手即停。
+ 价格和规则来自网上攻略，以现场为准。\n高德：https://u
+ ri.amap.com/marker?position=100.145562\,25.820078&name=%E5%90%91%E9%98%B3%
+ E6%BA%AA%E6%9D%91%EF%BC%88%E5%BB%8A%E6%A1%A5%EF%BC%89&src=trip-planner&cal
+ lnative=1\n高德：https://uri.amap.com/marker?position=100.142961\,25.80
+ 7539&name=%E6%97%B6%E4%BF%8A%E4%BE%BF%E5%88%A9%E5%BA%97%EF%BC%88%E6%B4%B1%
+ E6%B5%B7%E6%9C%80%E7%BE%8E%E4%B8%80%E5%85%AC%E9%87%8C%EF%BC%89&src=trip-pl
+ anner&callnative=1\n高德：https://uri.amap.com/marker?position=100.1504
+ 86\,25.766857&name=%E7%A3%BB%E6%BA%AAS%E5%BC%AF&src=trip-planner&callnativ
+ e=1\n高德：https://uri.amap.com/marker?position=100.151957\,25.754935&n
+ ame=%E5%A4%A7%E7%90%86%E5%B8%82%E6%96%B0%E9%82%91%E5%AE%8C%E5%85%A8%E5%B0%
+ 8F%E5%AD%A6%EF%BC%88%E4%B8%8B%E6%B3%A2%E6%B7%9C%E6%9E%AF%E6%A0%91%EF%BC%89
+ &src=trip-planner&callnative=1\n高德：https://uri.amap.com/marker?posit
+ ion=100.180230\,25.731881&name=%E6%B4%B1%E6%B5%B7%E4%B9%8B%E9%97%A8%EF%BC%
+ 88%E4%B8%8B%E9%B8%A1%E9%82%91%E8%8A%A6%E8%8B%87%EF%BC%89&src=trip-planner&
+ callnative=1\n高德：https://uri.amap.com/marker?position=100.193637\,25
+ .718727&name=%E6%89%8D%E6%9D%91%E7%A0%81%E5%A4%B4&src=trip-planner&callnat
+ ive=1\n高德：https://uri.amap.com/marker?position=100.188752\,25.725654
+ &name=%E6%B4%B1%E6%B5%B7%E7%94%9F%E6%80%81%E5%BB%8A%E9%81%93%28%E5%85%A5%E
+ 5%8F%A3%29&src=trip-planner&callnative=1
+END:VEVENT
+BEGIN:VEVENT
+UID:407417226bfc813fab84deb6073433a0@trip-planner
+DTSTAMP:20261028T021615Z
+DTSTART;TZID=Asia/Shanghai:20261029T160000
+DTEND;TZID=Asia/Shanghai:20261029T171500
+SUMMARY:柴米多野生菌火锅（早点吃晚饭）（和靖雯一起）
+LOCATION:柴米多CHIMIDO·农场餐厅(大理店)，大理市环海西路
+ （才村）
+DESCRIPTION:在才村，骑到这里就还车。小红书推荐它的野生
+ 菌火锅。高德写营业到 20:00，看完日落再来就太晚了，
+ 所以提前到 16:00 吃。\n高德：https://uri.amap.com/marker?positio
+ n=100.187554\,25.724060&name=%E6%9F%B4%E7%B1%B3%E5%A4%9ACHIMIDO%C2%B7%E5%8
+ 6%9C%E5%9C%BA%E9%A4%90%E5%8E%85%28%E5%A4%A7%E7%90%86%E5%BA%97%29&src=trip-
+ planner&callnative=1
+END:VEVENT
+BEGIN:VEVENT
+UID:407417226bfc81b4aee7d90d71bf5fbb@trip-planner
+DTSTAMP:20261028T021615Z
+DTSTART;TZID=Asia/Shanghai:20261029T174000
+DTEND;TZID=Asia/Shanghai:20261029T190000
+SUMMARY:三圣岛看日落（和靖雯一起）
+LOCATION:三圣岛，下关镇下末北村环海西路（洱海生态廊道
+ 南段）
+DESCRIPTION:17:15 从才村打车过去（导航「三圣岛停车场」，
+ 约 23 分钟）；想接着骑也行，经龙龛码头约 7 公里，先
+ 看小程序里的运营区域到不到三圣岛。日落 18:40，太阳
+ 会先落到苍山后面，提前到。岛边有心邸咖啡可以坐着
+ 等。19:00 打车回民宿约 19 分钟。\n高德：https://uri.amap.com
+ /marker?position=100.211234\,25.667157&name=%E4%B8%89%E5%9C%A3%E5%B2%9B&sr
+ c=trip-planner&callnative=1
+END:VEVENT
+BEGIN:VEVENT
+UID:407417226bfc81e6a337f5412a1f35aa@trip-planner
+DTSTAMP:20261028T021615Z
+DTSTART;TZID=Asia/Shanghai:20261030T103000
+DTEND;TZID=Asia/Shanghai:20261030T183000
+SUMMARY:海东包车：双廊 → 小普陀 → 文笔村（和靖雯一起
+ ）
+LOCATION:双廊古镇，云南省大理白族自治州大理市双廊镇环
+ 海东路
+DESCRIPTION:包车带司机，10:30 民宿出发，走北线去双廊约 65
+  分钟。安排：11:35–14:30 双廊，吃午饭、逛古镇，找家
+ 湖边咖啡馆坐一会儿；开 28 分钟到小普陀，路边远看 20 
+ 分钟；再开 12 分钟到文笔村，让司机开到村子最高处的
+ 红石咖啡，坐下来看对岸苍山；17:30 往回走（南线经下
+ 关，约 1 小时），18:30 到民宿。想等日落（18:39）就跟司
+ 机说好晚一点走，19:40 左右到。理想邦不去了（Song 10/28 
+ 定的）。包车参考价：5 座车 9 小时约 240–260 元（含油
+ 费、停车费），低于 200 元的多半有套路。\n高德：https:/
+ /uri.amap.com/marker?position=100.194322\,25.908323&name=%E5%8F%8C%E5%BB%8
+ A%E5%8F%A4%E9%95%87&src=trip-planner&callnative=1\n高德：https://uri.am
+ ap.com/marker?position=100.223013\,25.807452&name=%E5%B0%8F%E6%99%AE%E9%99
+ %80&src=trip-planner&callnative=1\n高德：https://uri.amap.com/marker?po
+ sition=100.232054\,25.746973&name=%E7%BA%A2%E7%9F%B3%E5%92%96%E5%95%A1%EF%
+ BC%88%E6%96%87%E7%AC%94%E6%9D%91%E9%A1%B6%E4%B8%8A%EF%BC%89&src=trip-plann
+ er&callnative=1
+END:VEVENT
+BEGIN:VEVENT
+UID:407417226bfc815d98dfd34a0598fe53@trip-planner
+DTSTAMP:20261028T021615Z
+DTSTART;TZID=Asia/Shanghai:20261031T103000
+DTEND;TZID=Asia/Shanghai:20261031T123000
+SUMMARY:寂照庵（看花、吃斋饭）（和靖雯一起）
+LOCATION:寂照庵，大理苍山景区内（感通索道下站附近）
+DESCRIPTION:10:00 从民宿打车到下面的停车点，约 25 分钟，
+ 再走一小段。免费，07:00–19:00 开放。先看院子里的多肉
+ 和花，斋饭约 20 元/人，平时 11:30–13:00，周六可能 11:00 
+ 就开始排队，队可能要半小时以上。信息来自携程和游
+ 记，以现场为准。\n高德：https://uri.amap.com/marker?position=10
+ 0.164930\,25.643372&name=%E5%AF%82%E7%85%A7%E5%BA%B5&src=trip-planner&call
+ native=1
+END:VEVENT
+BEGIN:VEVENT
+UID:407417226bfc81b0a066e02c2a702c01@trip-planner
+DTSTAMP:20261028T021615Z
+DTSTART;TZID=Asia/Shanghai:20261031T130000
+DTEND;TZID=Asia/Shanghai:20261031T143000
+SUMMARY:崇圣寺三塔（和靖雯一起）
+LOCATION:崇圣寺三塔，云南省大理白族自治州大理市大理镇
+ 三塔公园
+DESCRIPTION:寂照庵打车过来约 28 分钟。门票平台价约 64 元/
+ 人（含园内电瓶车的套票约 88 元），开放到 18:00 左右，
+ 以现场为准。逛完打车回民宿约 15 分钟，先回去歇一会
+ 儿。\n高德：https://uri.amap.com/marker?position=100.143044\,25.70412
+ 9&name=%E5%B4%87%E5%9C%A3%E5%AF%BA%E4%B8%89%E5%A1%94%E6%96%87%E5%8C%96%E6%
+ 97%85%E6%B8%B8%E5%8C%BA&src=trip-planner&callnative=1
+END:VEVENT
+BEGIN:VEVENT
+UID:407417226bfc81c99154f7c01145f882@trip-planner
+DTSTAMP:20261028T021615Z
+DTSTART;TZID=Asia/Shanghai:20261031T160000
+DTEND;TZID=Asia/Shanghai:20261031T180000
+SUMMARY:床单厂艺术区（周末市集）（和靖雯一起）
+LOCATION:大理床单厂艺术区，大理镇苍坪街56号
+DESCRIPTION:离民宿约 1 公里，走过去。老厂房改的艺术区，
+ 周末有市集（10/31 是周六），市集几点开没查到，去之
+ 前在小红书上看一眼。逛完在古城吃晚饭，第二天 10:00 
+ 退房去腾冲，晚上早点收拾行李。\n高德：https://uri.amap.c
+ om/marker?position=100.165624\,25.689852&name=%E5%A4%A7%E7%90%86%E5%BA%8A%
+ E5%8D%95%E5%8E%82%E8%89%BA%E6%9C%AF%E5%8C%BA&src=trip-planner&callnative=1
+END:VEVENT
+BEGIN:VEVENT
 UID:3f0417226bfc814a9817c950d079cd56-p1@trip-planner
-DTSTAMP:20261028T020137Z
+DTSTAMP:20261028T021615Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261018
 SUMMARY:住 北京朝阳三元桥亚朵X酒店
@@ -338,7 +496,7 @@ DESCRIPTION:已订，Trip.com 1359048209154809\n行政双床房 1 间，最
 END:VEVENT
 BEGIN:VEVENT
 UID:3f1417226bfc80199e13f1021d59fdaah-p1@trip-planner
-DTSTAMP:20261028T020137Z
+DTSTAMP:20261028T021615Z
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261021
 SUMMARY:住 美豪丽致酒店五四广场
@@ -347,7 +505,7 @@ DESCRIPTION:已订
 END:VEVENT
 BEGIN:VEVENT
 UID:3f9417226bfc81d3baefd6c89b126cdbh-p1@trip-planner
-DTSTAMP:20261028T020137Z
+DTSTAMP:20261028T021615Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261101
 SUMMARY:住 花筑奢·云谷归墅设计师民宿(大理古城店)
@@ -356,7 +514,7 @@ DESCRIPTION:已订
 END:VEVENT
 BEGIN:VEVENT
 UID:3f9417226bfc817da016c6f37ec2a8ech-p1@trip-planner
-DTSTAMP:20261028T020137Z
+DTSTAMP:20261028T021615Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261104
 SUMMARY:住 腾冲官房大酒店
